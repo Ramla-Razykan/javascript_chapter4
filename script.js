@@ -15,18 +15,18 @@
 // console.log(illegal1 + "\n" + illegal2 + "\n" + illegal3 + "\n" + illegal4 + "\n" + illegal5 + "\n");
 
 // Question 3:Display this in your browser.
-// var heading = "Rules for naming JS variables";
-// document.write(heading + "<br>");
-// console.log(heading + "\n");
+// var heading = " JS ";
+// document.write("<h3>" + "Rules for naming" + heading + "variables" + "</h3>" + "<br>");
+// console.log("Rules for naming" + heading + "variables" + "<br>");
 // var a = "numbers, $ and _ ";
 // document.write(" Variable names can only contain " + a + "For example $my_1stVariable " + "<br>");
-// console.log(" Variable names can only contain " + a + "For example $my_1stVariable " + "\n");
+// console.log(" Variable names can only contain " + a + "For example $my_1stVariable " + "<br>");
 // var b = "letter, $ and _ ";
 // document.write("Variables must begin with a " + b + "For example $name, _name or name" + "<br>");
-// console.log("Variables must begin with a " + b + "For example $name, _name or name" + "\n");
+// console.log("Variables must begin with a " + b + "For example $name, _name or name" + "<br>");
 // var c = "sensitive";
 // document.write("Variable names are case " + c + "<br>");
-// console.log("Variable names are case " + c + "\n");
+// console.log("Variable names are case " + c + "<br>");
 // var d = "keywords";
 // document.write("Variable names should not be JS " + d);
-// console.log("Variable names should not be JS"  + d);
+// console.log("Variable names should not be JS" + d);
